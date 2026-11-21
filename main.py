@@ -1,8 +1,8 @@
 """Deliver the finished front page of Friday 20 November 2026.
 
-The page (entry.png, 1024 x 1024) sums up the day's world news: 48 stories from
-7 regions, 15 of them on illustrated cards. It is committed in the repository;
-this program only copies it into the folder the harness reads.
+The page (entry.png, 1024 x 1024) sums up the whole day's world news: 35 stories
+from 6 regions, 13 of them on cards drawn as small infographics. It is committed in
+the repository; this program only copies it into the folder the harness reads.
 """
 import os
 import shutil
